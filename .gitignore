@@ -1,0 +1,5 @@
+icon.ico
+pyramid.spec
+/dist
+/build
+/__pycache__
